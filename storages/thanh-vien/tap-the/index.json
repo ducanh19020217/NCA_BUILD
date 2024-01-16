@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Công ty Cổ phần VNG",
+    "website": "vng.com.vn",
+    "email": "start@vng.com.vn",
+    "link": "https://vng.com.vn/"
+  },
+  {
+    "name": "Ngân hàng TNHH MTV Hong Leong Việt Nam",
+    "website": "hlbank.com.vn",
+    "email": "ask@hlbvn.hongleong.com",
+    "link": "https://www.hlbank.com.vn"
+  },
+  {
+    "name": "Công ty Cổ phần Công nghệ và đào tạo COE Việt Nam",
+    "website": "coe.com.vn",
+    "email": "contact@coe.com.vn",
+    "link": "https://coe.com.vn"
+  },
+  {
+    "name": "Cục Công nghệ thông tin, Ngân hàng Nhà nước",
+    "website": "sbv.gov.vn",
+    "email": "cntt@sbv.gov.vn",
+    "link": "https://sbv.gov.vn"
+  },
+  {
+    "name": "Công ty Cổ phần BKAV",
+    "website": "bkav.com",
+    "email": "Bkav@bkav.com",
+    "link": "https://bkav.com"
+  },
+  {
+    "name": "Ngân hàng HSBC Việt Nam",
+    "website": "hsbc.com.vn",
+    "email": "hoang.ha@hsbc.com.vn",
+    "link": "https://hsbc.com.vn"
+  },
+  {
+    "name": "Công ty Cổ phần thương mại Công nghệ Goviet",
+    "website": "gojek.com",
+    "email": "carevn@gojek.com",
+    "link": "https://gojek.com"
+  },
+  {
+    "name": "Trường Đại học Kỹ thuật - Hậu cần Công an nhân dân",
+    "website": "dhkthc.edu.vn",
+    "email": "admin@dhkthc.edu.vn",
+    "link": "https://dhkthc.edu.vn"
+  },
+  {
+    "name": "Tập đoàn Điện lực Việt Nam",
+    "website": "evn.com.vn",
+    "email": "hdpc@evn.com.vn",
+    "link": "https://evn.com.vn"
+  },
+  {
+    "name": "Ban Cơ yếu Chính phủ",
+    "website": "N/A",
+    "email": "N/A",
+    "link": "N/A"
+  },
+  {
+    "name": "Công ty Luật TNHH MTV Di Linh",
+    "website": "dilinh.com",
+    "email": "contact@dilinh.com",
+    "link": "https://dilinh.com/"
+  },
+  {
+    "name": "Liên hiệp KHSX Công nghệ cao Viễn thông - Tin học",
+    "website": "vast.gov.vn",
+    "email": "info@hti.gov.vn",
+    "link": "https://vast.gov.vn/tin-chi-tiet/-/chi-tiet/lien-hiep-khoa-hoc-san-xuat-cong-nghe-cao-vien-thong-tin-hoc-hti--3296-415.html"
+  },
+  {
+    "name": "Công ty Cổ phần Đầu tư Thế giới di động",
+    "website": "thegioididong.com",
+    "email": "cskh@thegioididong.com",
+    "link": "https://thegioididong.com"
+  },
+  {
+    "name": "Công ty TNHH Dịch vụ An toàn thông tin EY Việt Nam",
+    "website": "ey.com",
+    "email": "robert.tran@vn.ey.com",
+    "link": "https://www.ey.com/"
+  },
+  {
+    "name": "Công ty Cổ phần CNTT IPMAC",
+    "website": "ipmac.vn",
+    "email": "info@ipmac.vn",
+    "link": "https://ipmac.vn"
+  },
+  {
+    "name": "Công ty TNHH Grab",
+    "website": "grab.com",
+    "email": "publicaffairs.vn@grab.com",
+    "link": "https://grab.comhttps://dezshira.com"
+  },
+  {
+    "name": "Công ty Luật TNHH quốc tế BMVN",
+    "website": "",
+    "email": "tuanlinh.nguyen@bmvn.com.vn",
+    "link": ""
+  },
+  {
+    "name": "Bộ Tư lệnh 86, Bộ Quốc phòng",
+    "website": "",
+    "email": "motcua_botl86@dichvucong.vn",
+    "link": ""
+  },
+  {
+    "name": "Công ty TNHH DEZAN SHIRA và Cộng sự Việt Nam",
+    "website": "dezshira.com",
+    "email": "thao.pham@dezshira.com",
+    "link": "https://dezshira.com"
+  },
+  {
+    "name": "Học viện An ninh nhân dân",
+    "website": "hvannd.edu.vn",
+    "email": "N/A",
+    "link": "https://hvannd.edu.vn/"
+  },
+  {
+    "name": "Viện Hàn Lâm Khoa học và Công nghệ Việt Nam",
+    "website": "vast.gov.vn",
+    "email": "N/A",
+    "link": "https://vast.gov.vn/"
+  },
+  {
+    "name": "Tập đoàn Dầu khí Việt Nam (PVN)",
+    "website": "pvn.vn",
+    "email": "petrovietnam@pvn.vn",
+    "link": "https://pvn.vn"
+  },
+  {
+    "name": "Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT)",
+    "website": "vnpt.com.vn",
+    "email": "cskh@vnpt.vn",
+    "link": "https://vnpt.com.vn"
+  },
+  {
+    "name": "Tập đoàn Viettel",
+    "website": "viettel.com.vn",
+    "email": "vietteladm@viettel.com.vn",
+    "link": "https://viettel.com.vn"
+  },
+  {
+    "name": "Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Bộ Công an",
+    "website": "N/A",
+    "email": "N/A",
+    "link": "N/A"
+  },
+  {
+    "name": "Công ty cổ phần MISA",
+    "website": "misa.vn",
+    "email": "contact@misa.com.vn",
+    "link": "https://misa.vn"
+  },
+  {
+    "name": "Công ty Cổ phần FPT",
+    "website": "fpt.com.vn",
+    "email": "fpt@fpt.com.vn",
+    "link": "https://fpt.com.vn"
+  },
+  {
+    "name": "Công ty Vietnammobile",
+    "website": "vietnamobile.com.vn",
+    "email": "cskh@vietnamobile.com.vn",
+    "link": "https://vietnamobile.com.vn"
+  },
+  {
+    "name": "Công ty Cổ phần Phygital Labs",
+    "website": "phygitallabs.xyz",
+    "email": "hello@phygilabs.io",
+    "link": "https://phygitallabs.xyz/"
+  },
+  {
+    "name": "Công ty Cổ phần Công nghệ An ninh mạng quốc gia Việt Nam (NCS)",
+    "website": "ncsgroup.vn",
+    "email": "info@ncsgroup.vn",
+    "link": "https://ncsgroup.vn"
+  },
+  {
+    "name": "Công ty Cổ phần Kalapa",
+    "website": "kalapa.vn ",
+    "email": "info@kalapa.vn",
+    "link": "https://kalapa.vn"
+  },
+  {
+    "name": "Công ty cổ phần TMGS Việt Nam",
+    "website": "tmgs.vn",
+    "email": "taduc@tmgs.vn",
+    "link": "https://tmgs.vn"
+  },
+  {
+    "name": "Hội đồng kinh doanh Hoa Kỳ ASEAN",
+    "website": "usasean.org",
+    "email": "tvu@usasean.org",
+    "link": "https://usasean.org"
+  },
+  {
+    "name": "Công ty Luật TNHH Tilleke&Gibbins",
+    "website": "tilleke.com",
+    "email": "vietnam@tilleke.com",
+    "link": "https://tilleke.com"
+  },
+  {
+    "name": "Văn phòng Đại diện Bay Global Strategies",
+    "website": "bayglobalstrategies.com",
+    "email": "contactus@bayglobalstrategies.com",
+    "link": "http://bayglobalstrategies.com/"
+  },
+  {
+    "name": "Công ty TNHH Công nghệ thông tin và Viễn thông Dolphin",
+    "website": "dolphin-vc.com",
+    "email": "infor@dol-tech.com",
+    "link": "https://dolphin-vc.com/"
+  },
+  {
+    "name": "Công ty Luật TNHH One Asia Lawyers Việt Nam",
+    "website": "oneasia.legal",
+    "email": " oalvietnam@oneasia.legal",
+    "link": "https://oneasia.legal"
+  },
+  {
+    "name": "Tổng Công ty Công nghệ - Viễn thông Toàn cầu (Gtel)",
+    "website": "gtel.com.vn",
+    "email": "info@gtel.vn",
+    "link": "https://gtel.com.vn"
+  },
+  {
+    "name": "Công ty cổ phần An ninh mạng Việt Nam (VSEC)",
+    "website": "vsec.com.vn",
+    "email": "contact@vsec.com.vn",
+    "link": "https://vsec.com.vn/"
+  },
+  {
+    "name": "Công ty TNHH Một thành viên Mirae Asset Việt Nam",
+    "website": "mafc.com.vn",
+    "email": "info@mafc.com.vn",
+    "link": "https://mafc.com.vn/"
+  },
+  {
+    "name": "Công ty TNHH An ninh An toàn thông tin CMC",
+    "website": "cmccybersecurity.com",
+    "email": "contact@cmccybersecurity.com",
+    "link": "https://cmccybersecurity.com"
+  },
+  {
+    "name": "Công ty TNHH dịch vụ Thanh toán GOPAY Việt Nam",
+    "website": "wepay.vn",
+    "email": "hotro.vn@gopay.com.vn",
+    "link": "https://wepay.vn"
+  },
+  {
+    "name": "Công ty Cổ phần VCCorp",
+    "website": "vccorp.vn",
+    "email": "info@vccorp.vn",
+    "link": "https://vccorp.vn/"
+  },
+  {
+    "name": "Công ty TNHH An ninh mạng IRIS",
+    "website": "irissec.net",
+    "email": "lvabinh@irissec.net",
+    "link": "https://irissec.net"
+  },
+  {
+    "name": "Công ty Cổ phần Tư vấn và Dịch vụ Công nghệ ASIC",
+    "website": "asic.vn",
+    "email": " sales@asic.vn",
+    "link": "https://asic.vn/"
+  },
+  {
+    "name": "Công ty Cổ phần Hanel",
+    "website": "hanel.com.vn",
+    "email": "info@hanel.com.vn",
+    "link": "https://hanel.com.vn"
+  },
+  {
+    "name": "Công ty cổ phần công nghệ thẻ Nacencomm",
+    "website": "cavn.vn",
+    "email": "support@cavn.vn",
+    "link": "https://cavn.vn"
+  },
+  {
+    "name": "Công ty cổ phần Netnam",
+    "website": "netnam.com",
+    "email": "support@netnam.vn",
+    "link": "https://netnam.com"
+  },
+  {
+    "name": "Công ty cổ phần quản lý Quỹ Vinacapital",
+    "website": "vinacapital.com",
+    "email": "info@vinacapital.com",
+    "link": "https://vinacapital.com"
+  },
+  {
+    "name": "Công ty Cổ phần Sao tháng tám Việt Nam",
+    "website": "ags.vn",
+    "email": "info@ags.vn",
+    "link": "https://ags.vn"
+  },
+  {
+    "name": "Công ty Cổ phần HTC Viễn Thông Quốc tế (HITC)",
+    "website": "hitc.vn",
+    "email": "info@hitc.vn",
+    "link": "https://hitc.vn"
+  },
+  {
+    "name": "Công ty TNHH Quốc tế Unilever Việt Nam",
+    "website": "unilever.com",
+    "email": "tuvankhachhang@unilever.com",
+    "link": "https://unilever.com"
+  },
+  {
+    "name": "Công ty Cổ phần Dịch vụ di động trực tuyến",
+    "website": "momo.vn",
+    "email": "diep.nguyen@mservice.com.vn",
+    "link": "https://momo.vn"
+  },
+  {
+    "name": "Công ty Cổ phần Privacy Compliance",
+    "website": "privacycompliance.vn",
+    "email": "Info@privacycompliance.vn",
+    "link": "https://privacycompliance.vn/"
+  },
+  {
+    "name": "Tổng Công ty Viễn thông Mobifone",
+    "website": "mobifone.com.vn",
+    "email": "webmaster@mobifone.com.vn",
+    "link": " infosec@mobifone.vn"
+  }
+]
